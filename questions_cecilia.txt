@@ -1,0 +1,20 @@
+1. What are 3-5 (or more) commands that you can use on terminal and what do they do? What language is your computer terminal in?
+	cd - moves into a directory
+	ls - lists files in currect directory
+	python3 - enter into Python
+	clear - clear the terminal
+	My computer terminal (mac) is in zsh.
+
+2. Do you have pets? What kind? 
+	No I don't :(
+
+3. If you run across an error, what would your first course of action be?
+	Check the error message and see what line that error is in, then go back and double check that line.
+
+4. Funniest thing that happened to you in high school.
+	idk can't really think of anything rn..
+	but suddenly remembered that my APUSH teacher would buy herself a cookie from the snack station, and then eat the edges and give the centers to any one of her students that wanted it haha 
+
+5. What is a python script? (Keep it simple)
+	a file containing code that can be run in the command line
+
