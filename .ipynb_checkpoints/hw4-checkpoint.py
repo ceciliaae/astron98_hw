@@ -56,10 +56,6 @@ def modified_2d(matrix):
     return matrix
 matrix = modified_2d(matrix)
 print (matrix)
-"""
-SyntaxError: Missing parentheses in call to 'print'. Did you mean print(matrix)?
-forgot to put parentheses around 'matrix'
-"""
 
 def sum_non(new_matrix):
     total = 0
